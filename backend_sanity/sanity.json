@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "kaushal_portfolio"
+    "name": "portfolioo"
   },
   "api": {
-    "projectId": "fe4q6mya",
+    "projectId": "087gx5y5",
     "dataset": "production"
   },
   "plugins": [
